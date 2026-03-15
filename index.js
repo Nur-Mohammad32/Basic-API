@@ -1,4 +1,4 @@
-import "dotenv.config";
+import "dotenv/config";
 // require('dotenv').config()
 import express from "express";
 
